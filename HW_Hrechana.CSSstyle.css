@@ -1,0 +1,87 @@
+.main {
+  background-color: white;
+  border: 3px solid #d9d9d9;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 20px;
+  width: 616px;
+}
+
+header {
+  background-color: rgb(38, 51, 64);
+  color: #f2f2f2;
+  text-align: center;
+  font-family: Book Antiqua;
+  font-size: 160%;
+  padding-top: 20px;
+  position: relative;
+  width:616px;
+  height:50px;
+}
+
+aside {
+  background-color: rgb(128, 128, 128);
+  width:230px;
+  height:496px;
+}
+
+article {
+  background: white;
+  border-bottom: 2px solid rgb(0, 153, 204);
+  font-family:Book Antiqua;
+  width:380px;
+  height:162px;
+ }    
+
+img  {
+  width: 190px; 
+  height: 190px;
+  border: 1px solid #d9d9d9;
+  border-radius: 45px;
+  position: relative;
+  left: 20px;
+  top: 15px;
+}
+
+h4 {
+  font-size: 105%;
+  margin-bottom: 1px;
+  margin-top: 1px;
+  color: orange;
+}
+
+h5 {
+  margin-top: 1px;
+  color: #b30047;
+}
+
+p {
+  color:white;
+  text-align: center;
+  font-family: Book Antiqua;
+  top: 10px;
+  margin-right:20px;
+  margin-left:10px;
+  bottom: 20px;
+}
+
+h3 {
+  color: #ff9900;
+  text-align:center;
+  font-family: Book Antiqua;
+  position: relative;
+  }
+
+h1{
+  margin-top: 1px;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+.right {
+  float: right;
+  
+}
+.left {
+  float:left;
+}
